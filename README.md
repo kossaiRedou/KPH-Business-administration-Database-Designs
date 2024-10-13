@@ -3,7 +3,7 @@
 This project contains the database schema design for a business management system. It includes entities such as `Products`, `Suppliers`, `Clients`, and `Sales`, modeled to handle inventory, customer management, and sales transactions.
 
 ## Tools Used
-- Designed with dbdiagram.io
+- Designed with [dbdiagram.io]('https://dbdiagram.io/home')
 - Database type Relational (SQL)
 
 ## Database Overview
