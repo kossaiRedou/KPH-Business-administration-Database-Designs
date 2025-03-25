@@ -17,4 +17,4 @@ This project contains the database schema design for a business management syste
 ![Database Schema](KPH_admin_database_v2.png)
 
 ## MySQL Export
-An SQL file is also available in the repository ![Database SQL Script](`KPH_admin_database_v2.sql`) to create this schema directly in a relational database.
+An SQL file is also available in the repository [Database SQL Script](KPH_admin_database_v2.sql`) to create this schema directly in a relational database.
